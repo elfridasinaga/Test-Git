@@ -1,0 +1,31 @@
+{ 
+	"name"  :  "Elfrida L Sinaga", 
+	"age"   :  23, 
+	"address"   :  "Banjarmasin",
+	"hobbies"	:  ["bernyanyi","travelling"],
+	"is_married" : false,
+	"list_school" : {
+						"name" : "Universitas Gunadarma",
+						"year_in" : 2014,
+						"year_out" : 2019
+						},
+	"skills" : [
+			{
+				"skill_name" : "Java",
+				"level" : "advanced"
+			},
+			{
+				"skill_name" : "PHP",
+				"level" : "beginner"
+			},
+			{
+				"skill_name" : "Android Studio",
+				"level" : "advanced"
+			},
+			{
+				"skill_name" : "MySQL",
+				"level" : "advanced"
+			}
+		],
+	"interest_in_coding" : true	
+}
