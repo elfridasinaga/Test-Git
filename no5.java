@@ -10,8 +10,6 @@ public class no5 {
 
     System.out.print("Masukkan jumlah baris matriks: ");
     m = scan.nextInt();
-   // System.out.print("Masukkan jumlah kolom matriks: ");
-   // n = scan.nextInt();
 
     System.out.println("Masukkan elemen matriks pertama: ");
     for (i = 0; i < m; i++) {
@@ -20,13 +18,6 @@ public class no5 {
 		  matriks1[i][j] = scan.nextInt();
       }
     }
-
-   // System.out.println("Masukkan elemen matriks kedua: ");
-   // for (i = 0; i < m; i++) {
-  //    for (j = 0; j < n; j++) {
-   //     matriks2[i][j] = scan.nextInt();
-  //    }
-  //  }
 
     System.out.println("Matriks Ordo 3x3");
     for (i = 0; i < m; i++) {
